@@ -1,0 +1,7 @@
+Model;Accuracy;Acceptable_Acc;Kappa;F1;MCC
+AdaBoostClassifier;0.555;0.8675;0.4067;0.5453;0.4174
+DecisionTreeClassifier;0.6825;0.9175;0.5767;0.6831;0.5793
+KNeighborsClassifier;0.65;0.8925;0.5333;0.6449;0.5376
+LogisticRegression;0.635;0.9275;0.5133;0.6322;0.517
+RandomForestClassifier;0.7725;0.9425;0.6967;0.7674;0.7001
+XGBClassifier;0.79;0.935;0.72;0.7875;0.7211

@@ -1,0 +1,25 @@
+Model,CV_Accuracy,Test_Accuracy,Status,Dataset,Features
+XGB,0.5384520884520885,1.0,✅ OK,fis,classical
+XGBClassifier,0.5384520884520885,1.0,✅ OK,fis,classical
+RandomForest,0.5792383292383292,1.0,✅ OK,fis,classical
+RandomForestClassifier,0.5792383292383292,1.0,✅ OK,fis,classical
+LogisticRegression,0.5428746928746928,0.6561085972850679,✅ OK,fis,classical
+LogisticRegressionClassifier,0.5428746928746928,0.6561085972850679,✅ OK,fis,classical
+XGB,0.41187551187551186,1.0,✅ OK,fis,fi_tsfresh
+XGBClassifier,0.41187551187551186,1.0,✅ OK,fis,fi_tsfresh
+RandomForest,0.39819819819819824,1.0,✅ OK,fis,fi_tsfresh
+RandomForestClassifier,0.39819819819819824,1.0,✅ OK,fis,fi_tsfresh
+LogisticRegression,0.4254299754299754,0.5113122171945701,✅ OK,fis,fi_tsfresh
+LogisticRegressionClassifier,0.4254299754299754,0.5113122171945701,✅ OK,fis,fi_tsfresh
+XGB,0.775,1.0,✅ OK,fis_balanced,classical
+XGBClassifier,0.775,1.0,✅ OK,fis_balanced,classical
+RandomForest,0.8,0.9983333333333333,✅ OK,fis_balanced,classical
+RandomForestClassifier,0.8,0.9983333333333333,✅ OK,fis_balanced,classical
+LogisticRegression,0.6216666666666667,0.685,✅ OK,fis_balanced,classical
+LogisticRegressionClassifier,0.6216666666666667,0.685,✅ OK,fis_balanced,classical
+XGB,0.6983333333333333,1.0,✅ OK,fis_balanced,fi_tsfresh
+XGBClassifier,0.6983333333333333,1.0,✅ OK,fis_balanced,fi_tsfresh
+RandomForest,0.6916666666666667,0.985,✅ OK,fis_balanced,fi_tsfresh
+RandomForestClassifier,0.6916666666666667,0.985,✅ OK,fis_balanced,fi_tsfresh
+LogisticRegression,0.4633333333333334,0.5216666666666666,✅ OK,fis_balanced,fi_tsfresh
+LogisticRegressionClassifier,0.4633333333333334,0.5216666666666666,✅ OK,fis_balanced,fi_tsfresh
