@@ -1,0 +1,7 @@
+Dataset;Features;Model;Test_Accuracy
+fis;tsfresh;LogisticRegression;0.6888888888888889
+fis;tsfresh;KNeighborsClassifier;0.6888888888888889
+fis;tsfresh;DecisionTreeClassifier;0.6222222222222222
+fis;tsfresh;RandomForestClassifier;0.6888888888888889
+fis;tsfresh;AdaBoostClassifier;0.6222222222222222
+fis;tsfresh;XGBClassifier;0.7111111111111111

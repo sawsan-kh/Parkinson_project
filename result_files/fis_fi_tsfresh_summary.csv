@@ -1,0 +1,7 @@
+Model;Best_CV_Score;Accuracy;Acceptable_Acc;Kappa;F1;MCC
+LogisticRegression;0.0173;0.4189;0.8919;0.0095;0.3195;0.0137
+KNeighborsClassifier;0.2843;0.5541;0.8964;0.3215;0.5393;0.3269
+DecisionTreeClassifier;0.1786;0.5721;0.9009;0.3485;0.5570;0.3550
+RandomForestClassifier;0.1987;0.5405;0.8604;0.3521;0.5414;0.3620
+AdaBoostClassifier;0.1202;0.5225;0.8919;0.2756;0.4801;0.2830
+XGBClassifier;0.1916;0.5631;0.8919;0.3369;0.5473;0.3431

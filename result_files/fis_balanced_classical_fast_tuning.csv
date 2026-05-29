@@ -1,0 +1,4 @@
+Model,CV_Accuracy,Test_Accuracy,Time_s,Status
+XGBClassifier,0.8,1.0,3.4935860633850098,✅ OK
+RandomForestClassifier,0.7983333333333333,1.0,2.116345167160034,✅ OK
+LogisticRegression,0.6266666666666667,0.655,0.44068360328674316,✅ OK

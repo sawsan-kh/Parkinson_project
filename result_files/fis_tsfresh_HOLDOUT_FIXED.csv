@@ -1,0 +1,7 @@
+Model;Holdout_Acc
+LogisticRegression;0.75
+XGBClassifier;0.75
+AdaBoostClassifier;0.7
+KNeighborsClassifier;0.65
+RandomForestClassifier;0.6
+DecisionTreeClassifier;0.45

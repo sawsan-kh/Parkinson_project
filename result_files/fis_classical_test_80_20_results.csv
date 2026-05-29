@@ -1,0 +1,7 @@
+Dataset;Features;Split;Model;Test_Accuracy
+fis;classical;test_80_20;LogisticRegression;0.6444444444444445
+fis;classical;test_80_20;KNeighborsClassifier;0.5555555555555556
+fis;classical;test_80_20;DecisionTreeClassifier;0.6888888888888889
+fis;classical;test_80_20;RandomForestClassifier;0.6444444444444445
+fis;classical;test_80_20;AdaBoostClassifier;0.6444444444444445
+fis;classical;test_80_20;XGBClassifier;0.6444444444444445
